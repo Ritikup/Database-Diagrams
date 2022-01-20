@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T19:59:16.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="NA4jtopboAOYbT34b6b7" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T20:44:07.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ugHDDVbMBtck14vnT2b-" version="16.4.0" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2378" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,7 +404,7 @@
           <mxGeometry x="-220" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvECQQdI73FgMbFMKl-m-25" value="Book transaction stock" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="110" width="210" height="110" as="geometry" />
+          <mxGeometry x="-170" y="110" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QvECQQdI73FgMbFMKl-m-26" value="StockID" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" parent="QvECQQdI73FgMbFMKl-m-25" vertex="1">
           <mxGeometry y="26" width="210" height="30" as="geometry" />
