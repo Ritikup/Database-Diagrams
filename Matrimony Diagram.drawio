@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net" modified="2023-09-27T18:45:21.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oAY_1v2ijcH_cZYz8fa6" version="21.8.0" type="github">
+  <diagram name="Page-1" id="BLZSPbXHsELEbJxqz3aO">
+    <mxGraphModel dx="1730" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-1" target="Rfw0DFfrwncY8KSP29dk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Flow Diagram&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-190" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-4" target="Rfw0DFfrwncY8KSP29dk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-4" value="Splash Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-6" target="Rfw0DFfrwncY8KSP29dk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-6" value="Register Page&lt;br&gt;(Google, Facebook, or Phone No.)&lt;br&gt;Terms and conditions&lt;br&gt;User agreement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-9" target="Rfw0DFfrwncY8KSP29dk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-9" value="Credential Verification&lt;br&gt;(Link Or OTP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-10" target="Rfw0DFfrwncY8KSP29dk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-10" value="Credential Verification&lt;br&gt;(Link Or OTP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Dating App&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-190" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-14" target="Rfw0DFfrwncY8KSP29dk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-14" value="Profile Completion(Interests, Hobbies, Height, DOB, Address, Gender, Sexual orientation, Education, Employment, Bio and atleast 2 pics)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-16" value="Log In&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-20" target="Rfw0DFfrwncY8KSP29dk-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="60" />
+              <mxPoint x="240" y="130" />
+              <mxPoint x="50" y="130" />
+              <mxPoint x="50" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-20" target="Rfw0DFfrwncY8KSP29dk-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="60" />
+              <mxPoint x="240" y="130" />
+              <mxPoint x="50" y="130" />
+              <mxPoint x="50" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-20" target="Rfw0DFfrwncY8KSP29dk-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="60" />
+              <mxPoint x="240" y="130" />
+              <mxPoint x="50" y="130" />
+              <mxPoint x="50" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-20" value="Home Page&lt;br&gt;(Relevant Match Suggestion based on geolocation and common interests. Functionality of like, ignore, superlike, message)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="20" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-21" value="Notification Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="70" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-20" target="Rfw0DFfrwncY8KSP29dk-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="60" />
+              <mxPoint x="240" y="130" />
+              <mxPoint x="50" y="130" />
+              <mxPoint x="50" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-23" value="In-app Chat Feature&lt;br&gt;(Call, emoji and media sharing option may be available)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-25" value="Profile Management&lt;br&gt;(edit profile info, and additional settings like age-range, distance preferences, and notification settings)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="310" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="310" />
+              <mxPoint x="160" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-30" value="Unlimited Swipes, Super like options, Profile boost, advanced filters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-32" value="Premium Subscribed &lt;br&gt;User have extra features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="105" y="225" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rfw0DFfrwncY8KSP29dk-34" target="Rfw0DFfrwncY8KSP29dk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-34" value="Subscription Plan&lt;br&gt;(Free, Monthly, Yearly)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-36" value="Common Features &lt;br&gt;for all Users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-37" value="App Feedback and Suggestion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="590" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Rfw0DFfrwncY8KSP29dk-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="440" as="sourcePoint" />
+            <mxPoint x="-90" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-40" value="User Verification for Verified Tag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="410" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Rfw0DFfrwncY8KSP29dk-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="520" as="sourcePoint" />
+            <mxPoint x="-90" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfw0DFfrwncY8KSP29dk-42" value="Block or Report Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="490" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
