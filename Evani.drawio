@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T08:09:58.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.3" etag="y5Zn76GRa1ckJaHEytzK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T08:20:44.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nkFX8qH9ysQJy6kQidI0" version="23.1.3" type="github">
   <diagram name="Page-1" id="oqGr2nBRPdeLXpQPlahi">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-1" value="Auth&lt;br&gt;(Login signup)&lt;br&gt;Role: Team, Students," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-2" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wP-FX3WplhOwGdqUjnvO-3" target="wP-FX3WplhOwGdqUjnvO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-3" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-4" value="Dropdowns for:&lt;br&gt;Level&lt;br&gt;Progress Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-7" value="Task Assign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP-FX3WplhOwGdqUjnvO-8" value="Student Followup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
